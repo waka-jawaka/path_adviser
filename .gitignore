@@ -1,0 +1,5 @@
+*.pyc
+dataset
+dataset/*
+log
+processed_dataset
